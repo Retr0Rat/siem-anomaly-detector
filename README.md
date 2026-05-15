@@ -286,5 +286,5 @@ Systematically tuned across 6 values. At 0.20 the model achieves the highest mac
 
 ## Author
 
-**Aman** — AI & Cybersecurity Post-Graduate, Durham College  
-[github.com/Retr0Rat](https://github.com/Retr0Rat) · aman23092003@gmail.com · Oshawa, ON
+**Aman Bansal** — AI & Cybersecurity Post-Graduate  
+[github.com/Retr0Rat](https://github.com/Retr0Rat) 
